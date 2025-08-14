@@ -1,3 +1,5 @@
+WORK IN PROGRESS VERSION, MACHINE PROCESSED!
+
 # FreeXR Project Manifesto
 
 *Version 1.0 — August 2025*
